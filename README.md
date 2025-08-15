@@ -1,1 +1,3 @@
-A quick and fun React app! A great way to start learning and practicing ReactJS.
+## 🚀 Quick and Fun React App
+A great way to start learning and practicing **ReactJS**.
+
